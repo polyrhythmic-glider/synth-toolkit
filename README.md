@@ -58,10 +58,3 @@ Il collaudo fisico è descritto nei README dei firmware.
 Aprire [`synth-toolkit.code-workspace`](synth-toolkit.code-workspace) in
 VSCodium/VS Code. `./tools/generate_compile_commands.sh` genera il database
 clangd per entrambe le toolchain. Dettagli in [`DEVELOPMENT.md`](DEVELOPMENT.md).
-
-## Provenienza
-
-Estratto da [hardware-toolkit](https://github.com/polyrhythmic-glider/hardware-toolkit)
-a partire dal commit `0e697fe`, conservando la cronologia Git dei percorsi synth.
-I test hardware autonomi, Neko/e-LCD e il vecchio sketch quattro OLED restano
-in quella repository. I test specifici del synth sono accanto ai rispettivi firmware.
