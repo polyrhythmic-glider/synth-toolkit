@@ -32,3 +32,8 @@ compile_commands.json
 *.lst
 *.sym
 *.bak
+
+# Python/editor caches
+.cache/
+__pycache__/
+*.py[cod]

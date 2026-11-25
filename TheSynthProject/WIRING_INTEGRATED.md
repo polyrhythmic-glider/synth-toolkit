@@ -50,7 +50,7 @@ Usare quella board come base. Questi collegamenti non cambiano:
 - alimentazione `+` a 3V3 e `GND` di ogni encoder.
 
 Prima della modifica è consigliato caricare ancora una volta lo sketch in
-`../examples-and-tests/legacy-four-oled/` e verificare che tutti i componenti
+[hardware-toolkit/archive/synthProject](https://github.com/polyrhythmic-glider/hardware-toolkit/tree/main/archive/synthProject) e verificare che tutti i componenti
 funzionino. Poi spegnere e scollegare USB/alimentazione.
 
 ### Fili encoder da spostare

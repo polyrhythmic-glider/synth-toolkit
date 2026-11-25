@@ -68,7 +68,7 @@ Il progetto Daisy è in `../DaisySynth` e usa le librerie già presenti nel tuo
 checkout di `DaisyExamples`:
 
 ```sh
-cd /home/maurice/Documenti/hardware-toolkit/DaisySynth
+cd DaisySynth  # dalla radice di synth-toolkit
 make
 make program-dfu
 ```
@@ -76,8 +76,8 @@ make program-dfu
 Il `Makefile` trova per default:
 
 ```text
-/home/maurice/Documenti/DaisyExamples/libDaisy
-/home/maurice/Documenti/DaisyExamples/DaisySP
+../DaisyExamples/libDaisy
+../DaisyExamples/DaisySP
 ```
 
 Se le librerie si trovano altrove:

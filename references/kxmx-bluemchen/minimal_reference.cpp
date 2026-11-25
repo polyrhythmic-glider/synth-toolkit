@@ -1,6 +1,6 @@
 /*
  * REFERENCE ONLY: this translation unit is intentionally not part of any
- * Makefile or firmware target in hardware-toolkit.
+ * Makefile or firmware target in synth-toolkit.
  *
  * Design reference derived from recursinging/kxmx_bluemchen (MIT), inspected
  * at commit a18b647f82fbdd548093de74d6c2c9e0d0f83878. This is a reduced,

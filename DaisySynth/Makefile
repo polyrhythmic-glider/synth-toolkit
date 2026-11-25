@@ -13,7 +13,7 @@ C_DEFS += -DSYNTH_LINK_DIAGNOSTIC=$(SYNTH_LINK_DIAGNOSTIC)
 # ReverbSc lives in DaisySP-LGPL and is linked only for this effect block.
 USE_DAISYSP_LGPL = 1
 
-# DaisyExamples is a sibling of hardware-toolkit in the current workspace.
+# DaisyExamples is a sibling of synth-toolkit in the current workspace.
 # Override either variable on the make command line if your checkout differs.
 LIBDAISY_DIR ?= ../../DaisyExamples/libDaisy
 DAISYSP_DIR ?= ../../DaisyExamples/DaisySP
